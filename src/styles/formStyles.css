@@ -1,0 +1,45 @@
+.form-input, .form-select {
+    padding: 8px;
+    margin: 4px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+  }
+  
+  .field-wrapper {
+    margin-bottom: 16px;
+  }
+  
+  .field-label {
+    font-weight: bold;
+    margin-bottom: 4px;
+    display: block;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .submit-btn {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .field-wrapper {
+    margin-bottom: 1rem;
+  }
+  .field-label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+  .error-message {
+    color: red;
+    font-size: 0.875rem;
+  }
+  

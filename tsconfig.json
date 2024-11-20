@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES5",
+      "module": "CommonJS",
+      "jsx": "react",
+      "declaration": true,
+      "outDir": "./dist",
+      "lib": ["ES2021", "DOM"],
+      "types": ["node", "@types/react"],
+      "skipLibCheck": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "strict": true,
+    },
+    "include": ["src/**/*"]
+  }
+  
